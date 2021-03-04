@@ -3,11 +3,11 @@ The language of the holy dragon, never will we truly transcribe it, but this is 
 
 Usage:
 
-Copy all the code via CTRL + A and CTRL + C
-Open inspector via CTRL + SHIFT + I
-Navigate to 'Console'
-Paste the code in via CTRL + V
-Hit enter and watch the world turn into the truth!
+Copy all the code via CTRL + A and CTRL + C<br>
+Open inspector via CTRL + SHIFT + I<br>
+Navigate to 'Console'<br>
+Paste the code in via CTRL + V<br>
+Hit enter and watch the world turn into the truth!<br><br>
 
-You want to turn it off ;-;?
-CTRL + R
+You want to turn it off ;-;?<br>
+CTRL + R<br>
