@@ -6,7 +6,7 @@
     bully: 'bulli',
     you: 'ye',
     no: 'nu',
-    "I have you": 'ihatchu',
+    "I hate you": 'ihatchu',
     yes: 'yush',
     nope: 'nyupe',
     fuk: 'fwick',
@@ -61,6 +61,9 @@
     practising: 'practishing',
     nice: 'noice',
     more: 'moar',
+    sure: 'shure',
+    complex: 'komplex',
+    type: 'typi',
     lazy: 'lazey'
   }
   let suffixes = [
