@@ -3,7 +3,7 @@
   let suffixChance = 0.15
   let words = {
     'no you': 'no u',
-    'I hate you': 'ihatchu',
+    'i hate you': 'ihatchu',
     'it is': 'ish',
     'do it': 'doit',
     'do not': 'dun',
