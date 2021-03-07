@@ -9,5 +9,11 @@ Navigate to 'Console'<br>
 Paste the code in via CTRL + V<br>
 Hit enter and watch the world turn into the truth!<br><br>
 
+Alter:
+
+let prefixChance = 0.xx<br>
+let suffixChance = 0.xx<br>
+To your desired amount within a range of 0.00 to 0.99<br><br>
+
 You want to turn it off ;-;?<br>
 CTRL + R<br>
