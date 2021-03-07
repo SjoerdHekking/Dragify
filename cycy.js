@@ -14,6 +14,7 @@
     'what you': 'wotchu',
     'about it': 'abouddit',
     'sort of': 'sorta',
+    lewd: 'gutter',
     spooky: 'spoopy',
     bully: 'bulli',
     you: 'ye',
