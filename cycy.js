@@ -132,7 +132,7 @@
   ]
 
   function replaceAll (text, map) {
-    let source = Object.keys(map).map(i => `\\b${i}`)
+    let source = Object.keys(map).map(i => `\\b${i}\\b`)
     let re = new RegExp(`(?:${source.join(')|(?:')})`, 'gi')
     return text.replace(re, match => {
       let out = map[match.toLowerCase()]
