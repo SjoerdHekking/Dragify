@@ -26,7 +26,7 @@
     thief: 'theef',
     better: 'beddur',
     of: 'o',
-    how: 'hoa',
+    how: 'hao',
     pretty: 'pweddy',
     your: 'yer',
     write: 'writi',
