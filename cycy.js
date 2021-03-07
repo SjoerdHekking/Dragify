@@ -125,6 +125,7 @@
     'duh',
     'yuck',
     'hecc',
+    'squints',
     'psh',
     ':3',
     'hehe'
