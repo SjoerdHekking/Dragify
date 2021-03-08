@@ -13,7 +13,9 @@ Alter:
 
 let prefixChance = 0.xx<br>
 let suffixChance = 0.xx<br>
-To your desired amount within a range of 0.00 to 0.99<br><br>
+To your desired amount within a range of 0.00 to 0.99<br>
+let translate = true/false<br>
+false if you want to dragify things, true if you want to translate to human speech<br><br>
 
 You want to turn it off ;-;?<br>
 CTRL + R<br>
