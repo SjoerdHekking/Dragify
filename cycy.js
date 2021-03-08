@@ -1,6 +1,7 @@
 (function () {
   let prefixChance = 0.05
   let suffixChance = 0.15
+  let translate = false
   let words = {
     'no you': 'no u',
     'i hate you': 'ihatchu',
@@ -145,6 +146,18 @@
     'hehe'
   ]
 
+  function swap(json){
+	if (translate == true) {
+    var ret = {};
+    for(var key in json){
+      ret[json[key]] = key;
+    }
+    return ret;
+  }
+  else
+  	return words;
+}
+
   function replaceAll (text, map) {
     let source = Object.keys(map).map(i => `\\b${i}\\b`)
     let re = new RegExp(`(?:${source.join(')|(?:')})`, 'gi')
@@ -156,7 +169,7 @@
   }
 
   function dragify (text) {
-    text = replaceAll(text, words)
+    text = replaceAll(text, swap(words))
     // Prefixes
     if (Math.random() < prefixChance) {
       text = `${text} ${suffixes[Math.floor(Math.random() * suffixes.length)]}`
