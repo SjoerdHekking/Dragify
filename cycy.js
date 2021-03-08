@@ -171,11 +171,11 @@
   function dragify (text) {
     text = replaceAll(text, swap(words))
     // Prefixes
-    if (Math.random() < prefixChance) {
+    if ((Math.random() < prefixChance) && (translate == false)) {
       text = `${text} ${suffixes[Math.floor(Math.random() * suffixes.length)]}`
     }
     // Suffixes
-    if (Math.random() < suffixChance) {
+    if ((Math.random() < suffixChance) && (translate == false)) {
       text = `${prefixes[Math.floor(Math.random() * prefixes.length)]} ${text}`
     }
     return text
