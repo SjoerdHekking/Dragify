@@ -16,7 +16,7 @@
     'want to': 'wanna',
     'about it': 'abouddit',
     'sort of': 'sorta',
-    'put it in': 'puddit',
+    'put it': 'puddit',
     'kind of': 'kinda',
     easier: 'ezier',
     love: 'lob',
