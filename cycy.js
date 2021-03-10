@@ -8,6 +8,7 @@
     'do not': 'dun',
     'got to be': 'gotta',
     'i do not know': 'iunno',
+    'i hate you all so much': 'ihatchuallsomuch',
     'i hate you': 'ihatchu',
     'it is': 'ish',
     'kind of': 'kinda',
